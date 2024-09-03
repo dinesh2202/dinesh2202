@@ -27,7 +27,7 @@ I'm a Data Analyst passionate about turning data into actionable insights. With 
 ### 1. **Blinkit Analysis Sales Performance Dashboard**
    - **Description:** Developed a comprehensive Power BI dashboard to monitor key performance indicators (KPIs) such as total sales, average sales, number of items sold, and customer ratings.
    - **Technologies:** Power BI
-   - [Repository Link](Blinkit dashboard.pdf)
+   - [Repository Link](https://github.com/dinesh2202/PowerBI)
 
 ### 2. **Fake News Detection utilizing ML Algorithms**
    - **Description:** Created a machine learning model to detect fake news, showing the confidentiality of the news.
