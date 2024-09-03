@@ -12,14 +12,16 @@ I'm a Data Analyst passionate about turning data into actionable insights. With 
 ## 🛠️ Skills & Tools
 
 - **Languages:**
-  - ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg) Python
+  - Pyhton
   - MySQL
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"> MySQL
   - Advanced Excel
 - **Tools:**
   - Power BI
   - Tableau
   - Jupyter Notebook
+  - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="40" height="40"> Python
+  - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"> MySQL
+  - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Excel-Dark.svg" alt="Excel" width="40" height="40"> Excel
 
 ## 📊 Projects
 
