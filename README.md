@@ -5,7 +5,6 @@ I'm a Data Analyst passionate about turning data into actionable insights. With 
 ## 🚀 About Me
 
 - 🎯 **Career Objective:** Seeking a Data Analyst position where I can utilize my critical thinking and problem-solving skills to analyze and interpret data effectively. I am dedicated to building a strong foundation in data analysis techniques and tools and am eager to contribute to the success of the team by providing actionable insights.
-- 🌱 I’m currently enhancing my skills in Python to expand my data analytics capabilities.
 - 💬 Ask me about data analytics, SQL queries, or creating impactful visuals in Power BI.
 - 📫 How to reach me: [mspdinesh22022002@gmail.com](mailto:mspdinesh22022002@gmail.com)
 
@@ -17,11 +16,11 @@ I'm a Data Analyst passionate about turning data into actionable insights. With 
   - Advanced Excel
 - **Tools:**
   - Power BI
-  - Tableau
   - Jupyter Notebook
-  - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="40" height="40"> Python
-  - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"> MySQL
-  - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Excel-Dark.svg" alt="Excel" width="40" height="40"> Excel
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="40" height="40"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel" width="40" height="40"> <img width="40" height="40" src="https://img.icons8.com/dusk/64/power-bi.png" alt="power-bi"/> <img width="40" height="40" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+
+
 
 ## 📊 Projects
 
@@ -39,7 +38,7 @@ I'm a Data Analyst passionate about turning data into actionable insights. With 
 
 - **Bachelor of Technology in Artificial Intelligence & Data Science**
   - Rathinam Technical Campus, Coimbatore
-  - **CGPA:** 7.8 (2020-2024)
+  - 2020-2024
 - **Data Analytics Certification**
   - Besant Technologies, Bangalore (2024)
 
